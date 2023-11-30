@@ -1,3 +1,3 @@
 location             = "eastus"
-resource_group_name  = "rg-terraform-azure-003"
-storage_account_name = "terraformazurerohan003"
+resource_group_name  = "rg-terraform-azure-004"
+storage_account_name = "terraformazurerohan004"
