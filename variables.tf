@@ -10,3 +10,7 @@ variable "storage_account_name"{
     description = "name of the storage account"
 }
 
+variable "environment"{
+    description = "enviromment tag"
+}
+
