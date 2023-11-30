@@ -1,4 +1,4 @@
 location             = "eastus"
-resource_group_name  = "rg-terraform-azure-004"
-storage_account_name = "terraformazurerohan004"
+resource_group_name  = "rg-terraform-azure-005"
+storage_account_name = "terraformazurerohan005"
 environment          = "dev"
